@@ -93,3 +93,7 @@ Databases
 * GeoCouch - https://github.com/couchbase/geocouch
 
 * Riak - http://wiki.basho.com/
+
+## TODO
+
+- revitalize the project
